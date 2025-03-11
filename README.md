@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mudi24
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Data structure and algorithm
-
-
+- I enjoy coding and learning about artificial intelligence, continuously learning and exploring the world. 
+- Recently, I've been experimenting with fine-tuning large models. 
+- Welcome to join me in learning and exchanging ideas!
